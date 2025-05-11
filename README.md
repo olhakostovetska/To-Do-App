@@ -2,6 +2,7 @@
 
 A fully functional **To-Do application built with React and TypeScript** that interacts with a remote API to manage tasks in real time. This app focuses on clean UI/UX, asynchronous operations, and persistent data handling.
 The goal of this project is to implement a responsive and intuitive To-Do manager where all data is synchronized with a remote API. The app is built in stages, covering loading, creating, updating, deleting, and filtering todos — ensuring both technical correctness and a smooth user experience.
+The implementation passes all required test scenarios.
 
 ## 🚀 Live Demo
 👉 [DEMO LINK](https://olhakostovetska.github.io/To-Do-App/)
@@ -48,7 +49,3 @@ The goal of this project is to implement a responsive and intuitive To-Do manage
 - Disabled controls during in-progress actions.
 - Input auto-focus and state preservation on errors.
 - Real-time error notifications with auto-dismiss after 3 seconds.
-
-### 🧪 Testing
-- All features are covered by Cypress E2E tests.
-- The implementation passes all required test scenarios.
