@@ -5,7 +5,7 @@ The goal of this project is to implement a responsive and intuitive To-Do manage
 The implementation passes all required test scenarios.
 
 ## 🚀 Live Demo
-👉 [DEMO LINK](https://olhakostovetska.github.io/To-Do-App/)
+👉 [DEMO LINK](https://olhakostovetska.github.io/To-Do-App/) 
 
 ## 🛠️ Technologies Used
 
